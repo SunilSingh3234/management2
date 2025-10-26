@@ -1,0 +1,116 @@
+[
+  {
+    "model": "core.branch",
+    "pk": 1,
+    "fields": {
+      "name": "Computer Science",
+      "code": "CSE"
+    }
+  },
+  {
+    "model": "core.branch",
+    "pk": 2,
+    "fields": {
+      "name": "Electronics",
+      "code": "ECE"
+    }
+  },
+  {
+    "model": "core.branch",
+    "pk": 3,
+    "fields": {
+      "name": "Mechanical",
+      "code": "ME"
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 1,
+    "fields": {
+      "enrollment_no": "2025CSE101",
+      "first_name": "Student1",
+      "last_name": "Test",
+      "email": "student1@college.edu",
+      "phone": "9999999999",
+      "dob": "2004-01-01",
+      "branch": 1,
+      "year": 1,
+      "address": "Sample address",
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "user": null
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 2,
+    "fields": {
+      "enrollment_no": "2025CSE102",
+      "first_name": "Student2",
+      "last_name": "Test",
+      "email": "student2@college.edu",
+      "phone": "9999999999",
+      "dob": "2004-01-01",
+      "branch": 1,
+      "year": 1,
+      "address": "Sample address",
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "user": null
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 3,
+    "fields": {
+      "enrollment_no": "2025CSE103",
+      "first_name": "Student3",
+      "last_name": "Test",
+      "email": "student3@college.edu",
+      "phone": "9999999999",
+      "dob": "2004-01-01",
+      "branch": 1,
+      "year": 1,
+      "address": "Sample address",
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "user": null
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 4,
+    "fields": {
+      "enrollment_no": "2025CSE104",
+      "first_name": "Student4",
+      "last_name": "Test",
+      "email": "student4@college.edu",
+      "phone": "9999999999",
+      "dob": "2004-01-01",
+      "branch": 1,
+      "year": 1,
+      "address": "Sample address",
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "user": null
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 5,
+    "fields": {
+      "enrollment_no": "2025CSE105",
+      "first_name": "Student5",
+      "last_name": "Test",
+      "email": "student5@college.edu",
+      "phone": "9999999999",
+      "dob": "2004-01-01",
+      "branch": 1,
+      "year": 1,
+      "address": "Sample address",
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "user": null
+    }
+  }
+]
